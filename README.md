@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/AgentUnicorn"><img src="https://api.daily.dev/devcards/54cdba04fe264d22bf5e94922dc448bf.png?r=bdb" width="400" alt="AgentUnicorn's Dev Card"/></a>
+<a href="https://app.daily.dev/agentunicorn"><img src="https://api.daily.dev/devcards/v2/AU81PxKwMnAKiUZDHUGaR.png?type=wide&r=nw6" width="652" alt="AgentUnicorn's Dev Card"/></a>
